@@ -1,5 +1,1 @@
-我本来想搞个逼格大点的主页，但是突然发现没有什么可以放上来的。
-
-于是我写了点文字。
-
-以后想好再说吧。
+![Python, Cool, Right?](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![M↓](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)![Is Microsoft VS Code A New Game?](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
